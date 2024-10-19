@@ -5,6 +5,10 @@
     box-sizing: border-box;
 }
 
+.heading{
+    text-align: center;
+}
+
 .container{
     width: 100%;
     height: 100vh;
